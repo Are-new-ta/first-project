@@ -1,3 +1,7 @@
-.head {
+.header {
     bacground-color: red;
+}
+
+.body {
+    background-color: aqua;
 }
